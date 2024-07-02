@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/coffeeShop/static/css/main.477fdbfb.css",
+    "main.js": "/coffeeShop/static/js/main.6215ac55.js",
+    "static/media/CoffeeLatte.jpg": "/coffeeShop/static/media/CoffeeLatte.2e51511961dfa58b39ec.jpg",
+    "static/media/CoffeeDoppio.jpg": "/coffeeShop/static/media/CoffeeDoppio.e054b436eb9c2db2673e.jpg",
+    "static/media/contactUs.jpg": "/coffeeShop/static/media/contactUs.1a33dbba19c987d12288.jpg",
+    "static/media/CoffeeCappucino.jpg": "/coffeeShop/static/media/CoffeeCappucino.bcf04880e2f2b8d4e1c4.jpg",
+    "static/media/CoffeeMarocchino.jpg": "/coffeeShop/static/media/CoffeeMarocchino.0feef315183381394a03.jpg",
+    "static/media/CoffeeAmericano.jpg": "/coffeeShop/static/media/CoffeeAmericano.abdce436b4f07f608ecb.jpg",
+    "static/media/CoffeeEspresso.jpg": "/coffeeShop/static/media/CoffeeEspresso.c1e94410e3d284d25160.jpg",
+    "static/media/instagramLogo.png": "/coffeeShop/static/media/instagramLogo.028b1c892f5c26f916ab.png",
+    "static/media/logo.png": "/coffeeShop/static/media/logo.2776ca749863299b9aaf.png",
+    "static/media/facebookLogo.png": "/coffeeShop/static/media/facebookLogo.a682bb4afde7056eb6f4.png",
+    "static/media/youtubeLogo.png": "/coffeeShop/static/media/youtubeLogo.dc239a46473092bae0db.png",
+    "static/media/ButterChicken.ttf": "/coffeeShop/static/media/ButterChicken.d22e864ed97b71d118e5.ttf",
+    "static/media/banner.jpg": "/coffeeShop/static/media/banner.71f39ba6bdc100065389.jpg",
+    "index.html": "/coffeeShop/index.html",
+    "main.477fdbfb.css.map": "/coffeeShop/static/css/main.477fdbfb.css.map",
+    "main.6215ac55.js.map": "/coffeeShop/static/js/main.6215ac55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477fdbfb.css",
+    "static/js/main.6215ac55.js"
+  ]
+}
