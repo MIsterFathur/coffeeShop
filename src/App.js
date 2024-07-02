@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
-
+import Home from "./pages/Home";
+import { Helmet } from "react-helmet";
 function App() {
+  const smoothScroolStyle = {
+    scrollBehavior: "smooth",
+  };
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Helmet>
+        <meta charSet="utf-8" />
+        <title>Seruput Karsa</title>
+        <link rel="canonical" href="http://mysite.com/example" />
+        <meta name="description" content="Seruput Karsa" />
+      </Helmet>
+      <Home />
     </div>
   );
 }
